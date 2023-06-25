@@ -1,13 +1,1 @@
 # pipeline-github-actions
-
-Links úteis:
-
-Provider Azurerm
-Resource azurerm_resource_group
-Resource azurerm_public_ip
-Resource azurerm_network_interface
-Resource azurerm_network_interface_security_group_association
-Resource azurerm_linux_virtual_machine
-Provider AWS
-Resource aws_key_pair
-Resource aws_instance

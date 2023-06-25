@@ -1,6 +1,6 @@
 resource "aws_key_pair" "key" {
   key_name   = "aws-key"
-  public_key = file(var.aws_pub_key)
+  public_key = var.aws_pub_key
 
 }
 
